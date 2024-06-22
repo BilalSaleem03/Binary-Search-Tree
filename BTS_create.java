@@ -10,11 +10,7 @@ public class BTS_create {
             this.right = null;
         }
     }
-    
-    public static void aaa()
-    {
-        
-    }
+
 
     public static Node insert(Node root , int val)
     {
